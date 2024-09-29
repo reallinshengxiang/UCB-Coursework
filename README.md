@@ -1,1 +1,1 @@
-# Great Ideas in Computer Architecture (Machine Structures)
+# COMPSCI XB61C - 28496 - Great Ideas of Computer Architecture (Machine Structures)
