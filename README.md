@@ -1,6 +1,6 @@
 # Introduction to the Internet
 https://fa24.cs168.io/
-##Grading
+## Grading
 Homeworks(5%)
 Projects(45%)
 Midterm(25%)
