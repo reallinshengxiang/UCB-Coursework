@@ -1,5 +1,7 @@
 # Introduction to the Internet
-https://fa24.cs168.io/
+
+Course Pages: https://fa24.cs168.io/    
+Coursework: https://github.com/reallinshengxiang/COMPSCI-168
 ## Grading
 Homeworks(5%)  
 Projects(45%)  
