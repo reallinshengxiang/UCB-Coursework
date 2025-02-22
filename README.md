@@ -1,5 +1,5 @@
 # UCB-Coursework     
-![GitHub repo size](https://img.shields.io/github/repo-size/reallinshengxiang/COMPSCI-168)    
+![GitHub repo size](https://img.shields.io/github/repo-size/reallinshengxiang/UCB-Coursework)    
 This is a repo for all the computer-related courses Labs/Homework/Tasks/... I took during my undergraduatestudies at UCB. ✒️
 
 ## Courses List
